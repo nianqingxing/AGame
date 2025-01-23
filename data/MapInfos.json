@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":false,"name":"bedroom","order":1,"parentId":0,"scrollX":786.8571428571428,"scrollY":663.4285714285713},
 {"id":2,"expanded":false,"name":"livingroom","order":6,"parentId":0,"scrollX":786.8571428571428,"scrollY":663.4285714285713},
-{"id":3,"expanded":false,"name":"outside-spring","order":2,"parentId":0,"scrollX":786.8571428571428,"scrollY":663.4285714285713},
+{"id":3,"expanded":false,"name":"outside-spring","order":2,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":false,"name":"outside-summer","order":5,"parentId":0,"scrollX":786.8571428571428,"scrollY":662.5714285714286},
 {"id":5,"expanded":false,"name":"outside-fall","order":3,"parentId":0,"scrollX":786.8571428571428,"scrollY":663.4285714285713},
 {"id":6,"expanded":false,"name":"outside-winter","order":4,"parentId":0,"scrollX":786.8571428571428,"scrollY":662.5714285714286},
